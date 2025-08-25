@@ -87,7 +87,7 @@ var s = enum2str( v );
 // returns 'transpose'
 ```
 
-If unable to resolve a operation string, the function returns `null`.
+If unable to resolve an operation string, the function returns `null`.
 
 ```javascript
 var v = enum2str( -999999999 );
@@ -171,7 +171,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
