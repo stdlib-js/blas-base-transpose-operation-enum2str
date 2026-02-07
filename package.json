@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-base-transpose-operation-enum2str",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Return the BLAS transpose operation string associated with a BLAS transpose operation enumeration constant.",
   "license": "Apache-2.0",
   "author": {
@@ -37,12 +37,12 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/blas-base-transpose-operations": "^0.1.0",
-    "@stdlib/object-inverse": "github:stdlib-js/object-inverse#main"
+    "@stdlib/blas-base-transpose-operations": "^0.1.1",
+    "@stdlib/object-inverse": "^0.1.0"
   },
   "devDependencies": {
-    "@stdlib/assert-is-string": "^0.2.2",
-    "@stdlib/blas-base-transpose-operation-str2enum": "^0.1.0",
+    "@stdlib/assert-is-string": "^0.2.3",
+    "@stdlib/blas-base-transpose-operation-str2enum": "^0.1.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
